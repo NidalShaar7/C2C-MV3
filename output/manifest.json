@@ -1,0 +1,12 @@
+{
+  "name": "Rainbow Click2Call",
+  "description": "Manage your phone calls using Rainbow Click2Call",
+  "version": "1.0.1",
+
+  "background": {
+    "service_worker": "apps/serviceworker.min.js"
+  },
+
+  "permissions": ["storage"],
+  "manifest_version": 3
+}
